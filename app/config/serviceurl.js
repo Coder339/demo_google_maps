@@ -1,0 +1,1 @@
+export const serviceUrl = 'http://65.0.108.90:443'
